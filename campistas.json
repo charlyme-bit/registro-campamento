@@ -1,0 +1,34 @@
+[
+  {
+    "id": "CAMP-01",
+    "fullName": "BRENDA RAMIREZ",
+    "phone": "56 64 02 93 33",
+    "age": 18,
+    "tribeId": "tribe-1",
+    "church": "BETHEL CUAUTLA",
+    "emergencyContact": "PAPÁ - 735 190 2859",
+    "totalCost": 600,
+    "paidAmount": 200,
+    "paymentMethod": "Efectivo",
+    "paymentDate": "2026-10-15",
+    "medicalNotes": "Ninguna",
+    "attended": false,
+    "checkInTime": null
+  },
+  {
+    "id": "CAMP-02",
+    "fullName": "MATEO GONZÁLEZ LÓPEZ",
+    "phone": "55 87 65 43 21",
+    "age": 14,
+    "tribeId": "tribe-2",
+    "church": "IGLESIA FILADELFIA",
+    "emergencyContact": "MAMÁ - 55 1122 3344",
+    "totalCost": 1500,
+    "paidAmount": 1500,
+    "paymentMethod": "Transferencia",
+    "paymentDate": "2026-10-10",
+    "medicalNotes": "Ninguna",
+    "attended": true,
+    "checkInTime": "2026-10-15 08:30:12"
+  }
+]
